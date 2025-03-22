@@ -22,7 +22,7 @@ function makeTodo(todo) {
 
   document.querySelector("#tasks").appendChild(li); // Ensure it appends to #tasks
 
-  console.log("Task Added:", document.querySelector("#tasks").innerHTML); // Debugging
+ // console.log("Task Added:", document.querySelector("#tasks").innerHTML); // Debugging
 }
 
 function makebutton(e) {
